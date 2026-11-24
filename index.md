@@ -1,10 +1,9 @@
 # Aetos:run support
 
-Aetos:run is an interval run timer for iPhone. If something isn't working or you have a question, we're happy to help.
-
+Aetos:run is an interval run timer for iPhone. If something isn't doing what its supposed to  or you have a question let me know. If its working really well let me know. 
 **Contact:** krkruse@gmail.com
 
-When you write, it helps to include your iPhone model, your iOS version (Settings → General → About), and what happened. We usually reply within a few days.
+When you write, it helps to include your iPhone model, your iOS version (Settings → General → About), and what happened. Ill try to get back as soon as I can, which may not be as soon as you like but ill make an effort. 
 
 [Privacy policy](privacy)
 
@@ -23,8 +22,8 @@ Deleting an app on iPhone removes its data. To keep your runs safe:
 
 - In **Settings → Backup**, tap **Backup folder** and pick a folder in the Files app, for example in iCloud Drive. Aetos:run then saves a backup there after every run of a minute or more. The backup survives deleting the app.
 - After reinstalling, open **Settings → Backup → Backup folder**, pick the same folder, and tap **Restore** when Aetos:run offers it. Only runs that are missing are added.
-- You can also tap **Back up now** to save a backup file anywhere, and **Restore from a backup** to load one.
-
+- You can also tap **Back up now** to save a backup file anywhere, and **Restore from a backup** to load one. 
+- Also, having Pro saves it to the cloud which is way easier and way more secure. I get it it costs money but it might be worth considering. 
 ### Weather or location isn't showing.
 Check **Settings → Privacy & Security → Location Services → Aetos:run** and choose "While Using the App". Weather needs an internet connection. In Aetos:run, **Settings → Preferences → Weather from my location** must be on.
 
@@ -41,4 +40,6 @@ This is a Pro feature. Turn on **Settings → Preferences → Save runs to Apple
 Swipe to delete a run in History. Deleted runs stay in **Recently Deleted** for 14 days, then they are removed for good. Deleting the app removes everything else stored in it. Backup files you saved to Files or iCloud Drive are yours to delete there.
 
 ### I found a bug or have an idea.
-Please email us at krkruse@gmail.com. We read everything.
+Please email us at krkruse@gmail.com. Ill take a look, and try to address it. However I work a very full time job so just be patient. 
+
+Something to keep in mind, I have no clue what im doing. Im learning as I go. 
