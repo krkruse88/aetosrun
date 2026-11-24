@@ -2,7 +2,7 @@
 
 **Effective date:** November 24, 2026
 
-Aetos:run ("the app") is an interval run timer for iPhone, made by Kevin Kruse ("we", "us"). This policy explains what the app does with your information.
+Aetos:run ("the app") is an interval run timer for iPhone, made by Kevin Kruse ("we", "us", "I", "Me"). This policy explains what the app does with your information.
 
 **The short version:** there are no accounts, no ads, and no tracking or analytics. We don't collect your data on our own servers, and we don't sell it. Your runs and settings stay on your iPhone unless you choose to back them up or share them.
 
@@ -53,6 +53,7 @@ If you share a route picture or a workout link, it goes wherever you choose to s
 ## Children
 
 The app is not directed at children under 13, and we don't knowingly collect personal information from anyone.
+Really kids should just run and play and be kids, get em off the screens. 
 
 ## Data deletion
 
